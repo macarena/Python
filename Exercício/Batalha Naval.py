@@ -1,11 +1,11 @@
 '''
-Bom! Agora vamos usar uma funÁ„o embutida do Python para gerar nosso tabuleiro, 
+Bom! Agora vamos usar uma fun√ß√£o embutida do Python para gerar nosso tabuleiro, 
 que criaremos como uma grade de 5 x5 repleta de "O"s, de "oceano".
 
 print ["O"] * 5
-exibir· ['O', 'O', 'O', 'O', 'O'], que È a base para uma linha do nosso tabuleiro.
+exibir√° ['O', 'O', 'O', 'O', 'O'], que √© a base para uma linha do nosso tabuleiro.
 
-Vamos fazer isso cinco vezes para criar cinco linhas (Como temos que fazer cinco vezes, um laÁo parece ser apropriado).
+Vamos fazer isso cinco vezes para criar cinco linhas (Como temos que fazer cinco vezes, um la√ßo parece ser apropriado).
 '''
 from random import randint
 
